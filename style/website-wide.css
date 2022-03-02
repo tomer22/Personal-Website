@@ -1,4 +1,43 @@
+html {
+    color: white;
+}
+
 h1 {
     text-decoration: underline;
     font-size: 25px;
+}
+
+h2 {
+    color: orange;
+    border: 2px dotted cyan;
+}
+
+h3 {
+    color: pink;
+}
+
+figcaption {
+    border: purple 3px solid;    
+    padding: 10px;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 1 auto;
+    padding: 10px;
+}
+
+li {
+    font-family: "Comic-Sans", monospace, comic;
+    color: yellow;
+}
+
+a {
+    color: lightgreen;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
 }
